@@ -1,2 +1,4 @@
 # project_churn-prediction
-Churn prediction project
+В данном проекте делается анализ данных об оттоке клиентов и обучение классических 
+ML моделей.
+
